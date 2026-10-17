@@ -1,0 +1,15 @@
+THU MUC THEM 8 BAI NHAC
+
+Giu bai nhac cu o: assets/music.mp3
+
+Sao chep 8 file nhac MP3 cua ban vao thu muc music nay va doi ten dung nhu sau:
+song2.mp3 - Nguoi dau tien
+song3.mp3 - Duong toi cho em ve
+song4.mp3 - Tim em
+song5.mp3 - Mat ket noi
+song6.mp3 - Vet thuong
+song7.mp3 - Vo tinh
+song8.mp3 - Bong hoa dep nhat
+song9.mp3 - Khong buong
+
+Khong xoa hoac doi ten assets/music.mp3. Ten file va chu cai phai dung nhu tren.

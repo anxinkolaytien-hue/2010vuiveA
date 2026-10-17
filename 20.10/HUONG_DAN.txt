@@ -1,0 +1,40 @@
+WEB QUÀ TẶNG 20/10 — PHIÊN BẢN HỒNG PASTEL 💗
+
+MỞ WEBSITE
+1. Giải nén toàn bộ file ZIP vào một thư mục.
+2. Mở thư mục phuong_anh_20_10_pastel.
+3. Nhấp đúp index.html để mở bằng Chrome hoặc Microsoft Edge.
+4. Trả lời câu hỏi “Mối quan hệ của chúng ta là gì?” bằng “1. Người yêu” để đến màn hình mật khẩu.
+5. Mật khẩu mặc định: 2106. Nếu chọn một trong ba đáp án “Bạn”, trái tim tan vỡ sẽ xuất hiện; bấm “Thử chọn lại nhé” để quay lại.
+
+ĐÃ NÂNG CẤP
+- Màn hình mở đầu hồng pastel, thẻ kính mờ và trái tim 3D chuyển động.
+- Thư mới với lời nhắn ấm áp dành cho Phương Anh.
+- Album Polaroid dùng 6 ảnh thật có sẵn trong gói.
+- Giao diện co giãn cho máy tính và điện thoại.
+- Thanh nhạc tùy chỉnh: phát/tạm dừng, tua bài, chỉnh âm lượng, tắt tiếng.
+- Tôn trọng cài đặt giảm chuyển động của thiết bị.
+
+ĐỔI MẬT KHẨU / TÊN / LỜI THƯ
+Mở main.js bằng VS Code hoặc Notepad. Sửa phần CFG ở đầu file:
+- password: mật khẩu số
+- from: tên người gửi
+- to: tên người nhận
+- hint: gợi ý mật khẩu
+- letter: từng trang thư
+- photos: danh sách ảnh và chú thích
+
+THAY ẢNH
+Đặt ảnh mới trong assets/photos/ và cập nhật danh sách photos trong main.js. Hãy chỉ khai báo những file đang tồn tại.
+
+LƯU Ý
+- Trình duyệt có thể chỉ cho phát nhạc sau khi bạn nhập đúng mật khẩu hoặc bấm nút phát.
+- Mật khẩu phía trình duyệt là màn mở quà vui vẻ, không phải cơ chế bảo mật thực sự.
+- Website dùng Google Fonts khi có Internet; nếu ngoại tuyến, trình duyệt sẽ dùng font dự phòng.
+
+
+DANH SACH 9 BAI NHAC
+- Bai 1 la nhac cu: assets/music.mp3 (giu nguyen).
+- Tao/bo 8 file nhac MP3 moi vao thu muc music theo huong dan trong music/DAT_NHAC_VAO_DAY.txt.
+- Tren thanh nhac, chon bai trong danh sach hoac bam nut bai truoc/bai tiep theo. Het bai se tu chuyen bai.
+- Neu chua them file moi, chi bai 1 phat duoc; hay them dung cac file song2.mp3 den song9.mp3.
